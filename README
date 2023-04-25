@@ -1,0 +1,7 @@
+This is my first (successful) PYTHON Project displaying 
+one or more jpg files, and then displaying a list of data
+
+The data is initially coming from "DATA" statements in the 
+python file, and will be replaced with a connection to a
+mysql database
+
